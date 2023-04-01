@@ -10,8 +10,7 @@
 @import url('https://raw.githack.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/master/Themes/GGO_Kirito/core.css');
 
 :root{
-    --background: url('https://raw.githubusercontent.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/master/Themes/Highschool_DXD_Collection/Backgrounds/7H5FYv.png.jpg');
-	--background: url('https://raw.githubusercontent.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/master/Themes/Highschool_DXD_Collection/Backgrounds/7H5FYv.png.jpg');
+	--background: url('https://github.com/takimotochi/BetterDiscord-ThemesAndPlugins/blob/master/Themes/Highschool_DXD_Collection/Backgrounds/CharaStudio-2022-11-09-13-13-37-Render.png');
 
 	--colour1: rgb(220,220,220);
 	--colour1-active: rgba(155,155,155,0.2);
